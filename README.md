@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming, duh!,
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me . Why?
+- 📫 How to reach me .
+      Contact: jayshkhan10@gmail.com
 
 <!---
 SultanJKhan/SultanJKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
