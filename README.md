@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SultanJKhan
-- 👀 I’m interested in Programming, duh!,
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on anything interesting
+- 👀 I’m interested in hmm................
+- 🌱 I’m currently learning laravel,Flutter
 - 📫 How to reach me .
       Contact: jayshkhan10@gmail.com
 
