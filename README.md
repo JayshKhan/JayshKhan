@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SultanJKhan
+- 👋 Hi, I’m @JayshKHan
+-           Student of BS Software Engineering at Riphah international Universiy
 - 👀 I’m interested in hmm................
 - 🌱 I’m currently learning laravel,Flutter
 - 📫 How to reach me .
