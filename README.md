@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JayshKHan
--           Student of BS Software Engineering at Riphah international Universiy
+-           Graduate of BS Software Engineering from Riphah international University
+-           Student of MS Robotics and Artificial Intelligence at National University of Science and Technology
 - 👀 I’m interested in hmm................
 - 🌱 I’m currently learning laravel,Flutter
 - 📫 How to reach me .
