@@ -128,11 +128,11 @@
 ---
 
 ## 📊 **GitHub Analytics**
-
+<!-- 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayshKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayshKhan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayshKhan&theme=tokyonight&hide_border=true" />
@@ -150,7 +150,7 @@
 <tr>
 <td width="33%">
 
-### 🔬 **Research**
+### 🔬 **Research Interested In**
 - Deep Learning for Robotics
 - Computer Vision Applications
 - Autonomous Systems
@@ -159,7 +159,7 @@
 </td>
 <td width="33%">
 
-### 🚀 **Projects**
+### 🚀 **Projects Interested In**
 - AI-Powered Robotic Systems
 - Full-Stack Web Applications
 - Flutter Mobile Applications
@@ -188,10 +188,11 @@
 | 🎖️ Achievement | 📝 Description |
 |:---|:---|
 | 🥇 **Gold Medal** | Academic Excellence in Software Engineering |
-| 🤖 **AI Research** | Published research in Robotics & AI |
-| 💻 **Full-Stack Dev** | 5+ years experience in web development |
-| 🏆 **Competition Winner** | Multiple hackathons and coding competitions |
+| 🤖 **AI Research** | Researching in Robotics & AI |
 | 📚 **MS Student** | Currently pursuing advanced degree at NUST |
+<!-- | 💻 **Full-Stack Dev** | 5+ years experience in web development | -->
+<!-- | 🏆 **Competition Winner** | Multiple hackathons and coding competitions | -->
+
 
 </div>
 
