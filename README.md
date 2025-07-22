@@ -166,7 +166,13 @@
 ## 💭 **Inspiration**
 
 <div align="center">
-  <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20understand%20both%20artificial%20intelligence%20and%20human%20intelligence&author=Building%20tomorrow's%20technology%20today%20🚀" alt="Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational Quote" />
+</div>
+
+<div align="center">
+  <i>"The future belongs to those who understand both artificial intelligence and human intelligence."</i>
+  <br>
+  <b>- Building tomorrow's technology today 🚀</b>
 </div>
 
 ---
